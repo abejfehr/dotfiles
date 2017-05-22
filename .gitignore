@@ -1,0 +1,11 @@
+# Start by ignoring everything
+*
+
+# This file
+!.gitignore
+
+# My bash configuration
+!.bash_profile
+
+# My tmux configuration
+!.tmux.conf
